@@ -8,13 +8,10 @@ media/
 staticfiles/
 
 # Virtual Environment
-venv/
 env/
-.vscode/
 
 # Environment Variables
-NFLDraftSimulator/.env
-.env.local
+/NFLDraftSimulator/.env
 
 # IDE
 .idea/
@@ -22,6 +19,3 @@ NFLDraftSimulator/.env
 
 # macOS
 .DS_Store
-
-# Do not ignore .gitkeep
-!.gitkeep
