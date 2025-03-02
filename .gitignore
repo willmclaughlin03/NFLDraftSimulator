@@ -22,3 +22,6 @@ NFLDraftSimulator/.env
 
 # macOS
 .DS_Store
+
+# Do not ignore .gitkeep
+!.gitkeep
